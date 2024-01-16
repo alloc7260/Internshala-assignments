@@ -36,3 +36,29 @@ store_domain = "https://www.boysnextdoor-apparel.co"
 # store_domain = "https://lampsdepot.com"
 # store_domain = "https://kitchenoasis.com"
 print(FindAlternateGroups(store_domain))
+
+
+
+
+
+
+
+#######################################################################################################################################################################################################################
+"""
+Problem statement
+
+Hey there,
+
+Roll up your sleeves, as you have been qualified for the skill assessment stage. As part of this stage, we have created a task called "Find Product Alternates" to evaluate your AI skills.
+
+For further information about the task, please click on the link provided below:
+https://laser-comb-669.notion.site/Help-shoppers-find-product-variations-2eec9b82b7c14c9eb849f481db83a14e
+
+You must complete the task within 48 hours and share the link of your code in the chat. 
+
+We appreciate your time and effort in completing this task, and we are looking forward to seeing your code. If you have any questions or require assistance, please do not hesitate to contact us.
+
+Best regards,
+Shubham Vats
+StarApps Studio
+"""
